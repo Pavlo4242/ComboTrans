@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BWCTrans</string>
+
+    <string-array name="models">
+        <!-- Streaming / Dialog Models -->
+        <item>gemini-2.5-flash-preview-native-audio-dialog</item>
+        <item>gemini-2.0-flash-live-001</item>
+        <item>gemini-2.5-flash-live-preview</item>
+        <!-- REST / Non-Streaming Models -->
+        <item>gemini-2.5-pro-latest</item>
+        <item>gemini-2.5-flash-latest</item>
+    </string-array>
+
+    <string-array name="api_versions">
+        <item>v1alpha (Preview)|v1alpha</item>
+        <item>v1beta</item>
+        <item>v1</item>
+    </string-array>
+
+    <string-array name="api_keys">
+        <item>Rayven:AIzaSyCBnpGnbCKy7gxqMkDkBuCc78Rf40D1auA</item>
+        <item>Lan1a:AIzaSyDsTrGpp8mrr470vQrztyz3SOSnoxdtQJc</item>
+    </string-array>
+</resources>
